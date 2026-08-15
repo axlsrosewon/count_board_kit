@@ -1,0 +1,41 @@
+App name:
+Count Board Kit
+
+Short description:
+Create fast tally boards for inventory, events, habits, and tasks.
+
+Full description:
+Count Board Kit helps you create simple multi-counter boards for everyday tally work. Use it for inventory checks, attendance, event counts, packing batches, habit counts, quality checks, and task progress.
+
+Create multiple counters, set optional goals, tap plus or minus as work moves, and share a plain text board summary when you need to report the result. Your counters are saved locally on your device, so there is no account, login, backend server, or cloud database.
+
+Key features:
+- Multiple local counters in one clean board
+- Optional target goals with progress bars
+- Fast +1, -1, and +5 controls
+- Notes and colors for each counter
+- Shareable text summary
+- Local-first storage
+
+Contact website:
+http://nst21c.com
+
+Privacy policy:
+https://axlsrosewon.github.io/count-board-kit-privacy/
+
+Category:
+Tools
+
+Release notes:
+Initial release of Count Board Kit, a local-first multi-counter board for quick tally work.
+
+Content declarations:
+Login details: no login, no restricted features.
+Ads: yes.
+Advertising ID: yes.
+Advertising ID purposes: analytics, advertising or marketing, fraud prevention/security/compliance.
+Government app: no.
+Financial features: none.
+Health app: no.
+Target audience: adults / 18+.
+Permissions: internet and network state for ads; no camera, microphone, contacts, location, photos, or storage access.
